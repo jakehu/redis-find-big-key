@@ -1,7 +1,5 @@
 📖 [中文文档](./README_cn.md)
 
-# Redis Large Key Analysis Tool: Supports TOP N, Batch Analysis, and Slave Node Priority
-
 # Background
 
 Redis large key analysis tools are mainly divided into two categories:
